@@ -1,0 +1,5 @@
+- Hi, I’m @NotRin7
+- I’m interested in Pysics, Space ,Microcontrollers and Cryptocurrencys/Cryptomining!
+- I’m currently learning Python and Java,
+- I started programming with an ESP8266 in C++.
+- I'm currently living in Germany.
