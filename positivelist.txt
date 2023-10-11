@@ -4,3 +4,4 @@ luckpool.net
 2miners.com
 woolypooly.com
 hashpool.com
+server.duinocoin.com
