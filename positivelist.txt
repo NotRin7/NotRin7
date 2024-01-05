@@ -6,3 +6,4 @@ woolypooly.com
 hashpool.com
 server.duinocoin.com
 nomics.com
+bowserlab.ddns.net
